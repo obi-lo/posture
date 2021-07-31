@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="A^EsDQ)X~ocD;6^Cu.Te" x="352" y="-22"/><block type="device_gesture_event" id="L5xaS8f|q?ywRZpxU{w*" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_ring" id="-kHVjvAI(=7pmS3lbp/{"><value name="note"><shadow type="device_note" id="D.9*TY^0FMpLlkk^d%+y"><field name="name">349</field></shadow></value><next><block type="device_show_leds" id="PmWvf.f-KK}#:i?1b*CB"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><breakpoint/></block></next></block></statement></block><block type="device_gesture_event" id="#`/:TcN/r%9Y,q2q9lvh" x="241" y="78"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_ring" id="^Gw-X@r|?GDQrXtb|d6!"><value name="note"><shadow type="device_note" id="o^7[uQ3[oM$hme-t~24l"><field name="name">349</field></shadow></value><next><block type="device_show_leds" id="*E6[|#Xvw8Yy|(t5,/V`"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><breakpoint/></block></next></block></statement></block><block type="pxt-on-start" id="A^c$@!V_yg9iTHWHQjAG" x="465" y="156"><statement name="HANDLER"><block type="device_show_leds" id="?mpn=1FQT+p371Ca6W=-"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        . # . # .
+        `</field><breakpoint/></block></statement></block><block type="device_gesture_event" id="`?KQ!LEC|kG%rh3=a6O*" x="248" y="491"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="music_stop_all_sounds" id="Nz-ilI@Dq62Z%4?eY`4["><next><block type="device_show_leds" id=":ulBrK@xkI`vMR?4[IlR"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . # . 
+        # . # . . 
+        . # . . .
+        `</field><breakpoint/></block></next></block></statement></block><block type="device_ring" id="!Bq0_5u4Z_)1M}cHljoL" disabled="true" x="518" y="519"><value name="note"><shadow type="device_note" id="k$@}mD4gV-T6Qg^J*jf^" disabled="true"><field name="name">349</field></shadow></value></block></xml>
